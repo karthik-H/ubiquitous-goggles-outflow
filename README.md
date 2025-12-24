@@ -16,6 +16,7 @@ test repository for outflow
 
 ### 2.2 User Onboarding
 - Users can **register** with basic information.  
+- user should have an email id and email id should be valid.
 - During onboarding, users must submit:  
   - Picture of the energy source  
   - Supporting documents (PDF/image)  
